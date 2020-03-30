@@ -98,6 +98,10 @@ Looking for more guidance? Full documentation for Gatsby lives [on the website](
 
 <!-- AUTO-GENERATED-CONTENT:END -->
 
+## Web site
+
+https://hnishi-likes-pandas.netlify.com/
+
 ## Reference
 
 https://www.gatsbyjs.org/tutorial/part-four/
